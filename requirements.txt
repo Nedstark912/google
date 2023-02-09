@@ -1,7 +1,9 @@
 wget
 asyncio
-pyrogram==1.0.1
-tgcrypto
+pyrogram=2.0.69
+
+tgCrypto=1.2.5
+
 oauth2client
 psycopg2-binary
 sqlalchemy==1.3.20
